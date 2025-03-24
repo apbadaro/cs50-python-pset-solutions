@@ -31,13 +31,15 @@ def main():
 
 
 def convert(time):
-    time = time.split(":")
-    hours = int(time[0])
-    minutes = int(time[1])
+    time = time.split(":")  # splits "HH:MM" into a list [index0 (hours), index1 (minutes)]
+    
+    hours = int(time[0])  # convert the first element (hours) to an integer
+    minutes = int(time[1])  # convert the second element (minutes) to an integer
 
-    hours += minutes / 60
+    hours += minutes / 60  # convert minutes to a fraction of an hour and add to hours
 
-    return float(hours)
+    return float(hours)  # return the decimal representation of time
+
 
 if __name__ == "__main__":
     main()
