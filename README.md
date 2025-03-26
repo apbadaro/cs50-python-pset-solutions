@@ -46,7 +46,7 @@ Here, I track my progress and store my **check50 verification results** for each
 
 ### **Week 2: Loops**  
 ✅ [Camel Case](https://cs50.harvard.edu/python/2022/psets/2/camel/) → [check50](https://submit.cs50.io/check50/465f94449be1de878d8a10e7b3d3dde0aac084de)  
-⚪ Coke Machine → [check50](#)  
+✅ [Coke Machine](https://cs50.harvard.edu/python/2022/psets/2/coke/) → [check50]([#](https://submit.cs50.io/check50/cc339b5b71a44e104bdadc3ca2edd1f2beb2818d))  
 ⚪ Just setting up my twttr → [check50](#)  
 ⚪ Vanity Plates → [check50](#)  
 ⚪ Nutrition Facts → [check50](#)  
