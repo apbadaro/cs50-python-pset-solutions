@@ -17,7 +17,7 @@ Here, I track my progress and store my **check50 verification results** for each
 |------|---------------|----------|
 | ✅ **Week 0**  | Functions & Variables  | **5/5 completed**  |
 | ✅ **Week 1**  | Conditionals  | **5/5 completed**  |
-| ✅ **Week 2**  | Loops  | **1/5 completed**  |
+| ✅ **Week 2**  | Loops  | **2/5 completed**  |
 | ⚪ **Week 3**  | Exceptions & Libraries | **0/4 completed**  |
 | ⚪ **Week 4**  | File I/O | **0/6 completed**  |
 | ⚪ **Week 5**  | Unit Testing | **0/4 completed**  |
@@ -46,7 +46,7 @@ Here, I track my progress and store my **check50 verification results** for each
 
 ### **Week 2: Loops**  
 ✅ [Camel Case](https://cs50.harvard.edu/python/2022/psets/2/camel/) → [check50](https://submit.cs50.io/check50/465f94449be1de878d8a10e7b3d3dde0aac084de)  
-✅ [Coke Machine](https://cs50.harvard.edu/python/2022/psets/2/coke/) → [check50]([#](https://submit.cs50.io/check50/cc339b5b71a44e104bdadc3ca2edd1f2beb2818d))  
+✅ [Coke Machine](https://cs50.harvard.edu/python/2022/psets/2/coke/) → [check50]([#](https://submit.cs50.io/check50/cc339b5b71a44e104bdadc3ca2edd1f2beb2818d)  
 ⚪ Just setting up my twttr → [check50](#)  
 ⚪ Vanity Plates → [check50](#)  
 ⚪ Nutrition Facts → [check50](#)  
